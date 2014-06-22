@@ -24,7 +24,7 @@ where X, Y and Z denote three axial signals in the X, Y and Z directions.
 Also included in the output data variable for
 Subject, 
 Activity_Code, 
-Activity_Description, 
+Activity_Description.
 
 The script does the following:
 1) Merges training and test datasets from the original Samsung data.
